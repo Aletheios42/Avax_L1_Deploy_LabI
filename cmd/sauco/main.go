@@ -29,3 +29,4 @@ func main() {
 	plugin.SetLogger(log)
 	rpcchainvm.Serve(plugin)
 }
+
